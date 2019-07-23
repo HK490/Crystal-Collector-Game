@@ -52,7 +52,7 @@ h1 {
 }
 
 .wins,
-.loses {
+.loss {
     float: left;
     margin-left: auto;
     margin-right: auto;
