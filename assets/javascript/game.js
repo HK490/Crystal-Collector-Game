@@ -31,25 +31,21 @@ $(document).ready(function () {
 
     $("#btn1").on("click", function () {
         totalScore += button1
-        console.log(totalScore)
         $(".myTotalScore").text(totalScore);
     });
 
     $("#btn2").on("click", function () {
         totalScore += button2
-        console.log(totalScore)
         $(".myTotalScore").text(totalScore);
     });
 
     $("#btn3").on("click", function () {
         totalScore += button3
-        console.log(totalScore)
         $(".myTotalScore").text(totalScore);
     });
 
     $("#btn4").on("click", function () {
         totalScore += button4
-        console.log(totalScore)
         $(".myTotalScore").text(totalScore);
     });
     
