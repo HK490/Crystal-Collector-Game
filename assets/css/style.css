@@ -1,5 +1,9 @@
 body {
-    background: beige;
+    background: url(http://cdn.lowgif.com/full/73652712cdeac8ad-gifs-tumblr-background-google-search-pretty-gifs.gif);
+    background-size: cover;
+
+
+
 }
 
 h1 {
@@ -17,6 +21,7 @@ h1 {
     margin-bottom: 80px;
     width: 400px;
     padding: 10px;
+    font-weight: bold;
 }
 
 
