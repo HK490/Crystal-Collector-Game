@@ -1,6 +1,5 @@
-# unit-4-game
 
-Crystal Collector Game
+# Crystal Collector Game
 
 Goal of the Game:
 Match "Your Total Score" with the given random number.  
